@@ -1,7 +1,6 @@
 - 👋 Hi, thanks for stopping by
 - 👀 Let's build something cool together
-- 🌱 I’m into fullstack web, react, nextjs, trpc, tailwind, github, html, css
-- 💞️ I’m looking to collaborate on a project for artists and creators
+- 🌱 I’m into fullstack web, react, nextjs, python, tailwind, github, html, css
 - 📫 Ping me, smenroll at gmail dot com
 
 <!---
